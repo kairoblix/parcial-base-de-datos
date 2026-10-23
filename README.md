@@ -4,7 +4,7 @@ Aplicación académica construida con Django y SQLite.
 
 ## Requisitos
 
-Python 3.10 o posterior.
+Python compatible con Django 6.1.1, según `requirements.txt`.
 
 ## Preparar la base de datos
 
